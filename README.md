@@ -1,6 +1,6 @@
 ### proyek-pertama-pengembangan-web-intermediate
 
-Cara menjalankan:
+Cara menjalankan proyek:
 
 ```python
 npm install leaflet
